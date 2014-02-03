@@ -57,4 +57,5 @@ cscope*
 .tar
 .gz
 /boost_1_55_0/installed/
+/boost_1_55_0/bin.v2/
 
